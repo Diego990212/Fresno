@@ -333,7 +333,7 @@ namespace Booty_Fresno.Controllers
                     {
                         Text = new Return.Message._Text
                         {
-                            Text = "Flujo finalizado, puede comenzar de nuevo"
+                            Text = "Flujo finalizado, puede comenzar de nuevo pls"
                         }
                     });
                     Response.Answers = Messages;
