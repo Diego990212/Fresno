@@ -1,0 +1,6 @@
+@Booty_Fresno_HostAddress = http://localhost:5076
+
+GET {{Booty_Fresno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
