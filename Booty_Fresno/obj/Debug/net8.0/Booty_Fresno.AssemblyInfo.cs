@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Booty_Fresno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fb70ae9753e27a718c3751dadf2440823b319e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Booty_Fresno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Booty_Fresno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
